@@ -7,4 +7,4 @@ The number of successful campaigns that  were created from November-December are
 
 When goals for fundraising are $4999 and under, the probability a campaign will succeed are at it's highest but we would need a larger sample size from campaign with goals of above $14999. 										
 								
-![Screen Shot 2019-11-16 at 2.14.39](Screen Shot 2019-11-16 at 2.14.39 PM.png)
+![2019-11-16 at 2.14.39](Screen Shot 2019-11-16 at 2.14.39 PM.png)
