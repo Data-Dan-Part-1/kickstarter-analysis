@@ -7,4 +7,4 @@ The number of successful campaigns that  were created from November-December are
 
 When goals for fundraising are $4999 and under, the probability a campaign will succeed are at it's highest but we would need a larger sample size from campaign with goals of above $14999. 										
 								
-![]()
+![](https://github.com/DaterDan/kickstarter-analysis/blob/master/Screen%20Shot%202019-11-16%20at%202.14.39%20PM.png)
