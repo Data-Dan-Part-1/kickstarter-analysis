@@ -1,5 +1,5 @@
 # An Analysis of Kickstarter Campaigns
-performing analysis on Kickstarter data to uncover trends
+Performing analysis on Kickstarter data to uncover trends
 ### Challenge
 According to the data, the most successful campaigns were created from May-July but this does not inform us of the probability a campaign will be successful due to the need for analyis by percentage.																		
 
